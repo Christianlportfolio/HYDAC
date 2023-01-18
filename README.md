@@ -1,3 +1,3 @@
 # Hydac project
 
-Our first introduction to project work in a real project was in collaboration with HYDAC. It concerned a case about the development of a come-go system of employees for the company. Here we had to prepare a console application with quality of control structure, data conversion and with the option of persistence ie. the option to save data in a text file. A nice little project over 5 weeks with a focus on project management, system development and basic object-oriented programming in C#.
+In our first introduction to project work, we collaborated with HYDAC on a case about developing a come-and-go system for employees. We had to prepare a console application with a quality control structure, data conversion, and the option to save data in a text file. It was a nice little project that lasted for 5 weeks, with a focus on project management, system development, and basic object-oriented programming in C#.
